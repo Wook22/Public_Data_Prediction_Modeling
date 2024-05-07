@@ -40,7 +40,7 @@ The dataset consists of two CSV files:
 4. Prediction: Predict case counts for the test data using the trained models.
 5. Result Analysis: Compare and analyze the predictions from each model.
 
-]
+
 ## Conclusion
 
 Evaluate the performance of each model based on metrics like MAE and choose the best model for predicting case counts in your scenario.
